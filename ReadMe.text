@@ -3,10 +3,10 @@
 3.虚拟机安装JDK1.8
 4.虚拟机安装Maven 3.2.x+
 5.虚拟机安装nacos
-6.AMS服务器安全组入站打开所有流量
+6.AWS服务器安全组入站打开所有流量
 7.尝试本地ping 服务器
 8.如果连接成功，开启nacos服务器(sh startup.sh -m standalone)
-9.进入nacos主页(http://127.0.0.1:8848/nacos)127.0.0.1换为服务器IP，用户名/密码：nacos
+9.进入nacos主页 (http://127.0.0.1:8848/nacos) 127.0.0.1换为服务器IP，用户名/密码：nacos
 10.clone github代码运行
 
 参考官方文档地址
